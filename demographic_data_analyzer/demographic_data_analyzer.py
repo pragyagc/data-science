@@ -58,4 +58,10 @@ def calculate_demographic_data(print_data=True):
         'average_age_men': average_age_men,
         'percentage_bachelors': percentage_bachelors,
         'higher_education_rich': higher_education_rich,
-        'lower_education_rich': lo
+        'lower_education_rich': lower_education_rich,
+        'min_work_hours': min_work_hours,
+        'rich_percentage': rich_percentage,
+        'highest_earning_country': highest_earning_country,
+        'highest_earning_country_percentage': highest_earning_country_percentage,
+        'top_IN_occupation': top_IN_occupation
+    }
